@@ -1,0 +1,22 @@
+[
+    {
+        "Id": 0,
+        "Author":"Muker Gloal",
+        "Name":"",
+        "Title": "测试测试",
+        "Content": "这是一个测试，哈哈哈",
+        "Imgs":["https://orihealth.my/cdn/shop/products/novaactivmaxhighcalciumvanila900g.jpg?v=1680408197","",""],
+        "ModelPath": "assets/models/bottle.glb",
+        "Url": "https://orihealth.my",
+        "CSPhone": "01111828090",
+        "IsRedirect": 0,
+        "MLocation": "p1.r1.001",
+        "OffsetX": 0,
+        "OffsetY": -0.3,
+        "OffsetZ": 0,
+        "X": 9999,
+        "Y": 9999,
+        "Z": 9999,
+        "show_boards": true
+    }
+]
